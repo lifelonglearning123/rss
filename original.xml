@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<rss version="2.0"><channel><title>macaws.ai function updates</title><link>http://macaws.ai/</link><description>My custom RSS feed</description><lastBuildDate>Fri, 19 Jan 2024 21:30:32 GMT</lastBuildDate><generator>PyRSS2Gen-1.1.0</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Bulk Actions &amp; Search for Uploaded Links to Streamline Your Bot Training - Conversation AI</title><description>Bulk Delete, Refresh, and Search for Uploaded links in Bot Training
+
+**Multi-Select for Bulk Operations**
+- Multi-select URLs: Select multiple URLs at once for bulk actions. This feature allows for quicker and more efficient management of your URLs.
+**Bulk Delete**
+- Effortless Deletion: Easily delete multiple selected URLs with just a click. This feature is perfect for cleaning up your Uploaded Links table and keeping it organized.
+**Bulk Refresh**
+- Instant Updates: Refresh the training of selected URLs in bulk. This ensures your bot is up-to-date with the latest information from your chosen links.
+**Enhanced Search Functionality**
+- Search by URL or Title: Quickly find URLs using either their web address or title. This streamlined search functionality saves time and simplifies the process of locating specific URLs in your table.</description><pubDate>Fri, 19 Jan 2024 10:26:06 GMT</pubDate></item><item><title>Conversation AI Dynamic Intent - Provide Support when Appointment is already booked on the calendar</title><description>Introducing a dynamic intent-switching feature in our Conversation AI, when an active or confirmed appointment is detected for a contact, the bot now automatically switches from the "Appointment" intent to the "General Support" intent. This ensures that conversations align with the user's immediate needs, providing a more personalized and seamless interaction.
+
+
+**How It Works:**
+- Appointment Detection: The system identifies an active, confirmed appointment for a contact.
+- Intent Switch: The bot dynamically shifts from the "Appointment" intent to the "General Support" intent.
+- Contextual Conversations: The bot engages in discussions based on the  intent, offering appropriate support or information.</description><pubDate>Fri, 19 Jan 2024 10:06:34 GMT</pubDate></item><item><title>Live Chat Triggers and Actions</title><description>Introducing the ability to add live chat triggers and actions in workflows. 
+
+**Add live chat triggers in workflows seamlessly**
+- Go to New Trigger -&gt; Customer Reply -&gt; Add filter for Reply Channel -&gt; Select Live Chat
+
+**Ability to add live chat message actions in workflows**
+- The send live chat message action is now available in the workflows. Seamlessly use this action to respond to live chat messages to your end customers.</description><pubDate>Fri, 19 Jan 2024 09:32:13 GMT</pubDate></item><item><title>Contact Engagement Score in the Contact Details Page &amp; Smartlist</title><description>**
+Conversation Page - New "Contact Engagement Score" section in the right panel
+
+**
+- User now can see and update Engagement Score for any contact from the conversation screen.
+
+**
+Contact Smart-list - new Column and new filter addition
+
+**
+- Published score profile will come as a column. By selecting the column user can see Engagement Scores for all the contacts.
+- We can now import and export Engagement scores through the Import and Export feature available on the smart-list page.
+- A new filter bucket called "Contact Engagement Score" is also available. Users can apply filters on scores for the score profile. Available filter operators are - Score empty, Not empty, Less than, Greater than and In between.
+
+**
+Contact Details page - New "Contact Engagement Score" section in the left panel
+
+**
+- User now can see and update Engagement Score for contact from the contact details screen.</description><pubDate>Fri, 19 Jan 2024 09:27:38 GMT</pubDate></item><item><title>Removing App Marketplace White-Label Tags for Location Users</title><description>To enhance the focus on white-label friendliness for the app, white-label tags will now be visible exclusively to Agency users. This change aims to reduce potential confusion for location users.
+
+Limited Availability of Website &amp; Support Info for Agency Users:
+- Website and support information will now be accessible exclusively to Agency users. In situations where support is needed on behalf of location users, agencies can initiate support requests with our marketplace developers. 
+- This change is implemented to address white-label compliance concerns, ensuring that certain information is hidden from location users to support a white-label friendly environment.</description><pubDate>Fri, 19 Jan 2024 09:23:41 GMT</pubDate></item><item><title>Client Portal - Updates</title><description># Enhancements -
+**Optional Password and Set Password:**
+Set your own password: You now have the choice to set a password—it's optional, providing you the freedom
+**Easy Setup:** For those setting a password for the first time, we've added a simple flow to make the process a breeze.
+**Reset Password Issue:**
+**Fixed and Functional**: We've tackled the pesky issue some users were facing with password resets. Now, the password reset flow works like a charm.
+**Multiple User Screen Enhancement:**
+**Last Logged-In User on Top:** Find the user who was last logged in at the top, making it easier to pick up where you left off.
+**Personal Touch: **Avatars and Full Names have been added to the multiple user display, making it look more friendly and personal.
+**Google Sign On Support:**
+Sign Up with Google: Now, you can sign in and sign up effortlessly using your Google account. It's quick and convenient.
+
+**Login Fixes**
+- **Smart Sign-Ups:** New sign-ups won't create new contacts; they'll use existing ones to avoid clutter.
+- **No More Duplicates:** Email invites for communities won't create extra contacts. We've put a stop to that.
+- **Ongoing Fix:** We're aware of user creation triggers from workflows and smart lists causing duplicate contacts. Don't worry; we're working on fixing that soon.
+- Firebase Integration with Common Components:
+- **More Possibilities: **We've integrated with Firebase, opening up opportunities to integrate notifications into other apps and offering a smoother mobile native profile experience.
+
+**Bug Fixes:**
+- **Client Portal Logo Fix: **The default logo no longer disrupts the Sign-Up screen appearance, and it will only be visible on the Login screen after upload.
+- **404 Error:** Non-logged-in users will now be seamlessly redirected to the login page or respective child apps, addressing the previous issue of being stuck on /404.
+- **Syncing Contacts Name &amp; Client Portal Name:** Previously, changes made to the username in the client portal were not being reflected in contacts. This has now been resolved</description><pubDate>Thu, 18 Jan 2024 15:45:02 GMT</pubDate></item><item><title>Text Editor UI Changes</title><description>We are thrilled to announce some exciting UI changes in for the Text Editor. This document will take you through all the functionalities of the new editor.
+
+
+- When "Custom Values" icon is clicked it will populate all the options from where you can select the custom values for the template.
+
+![image](https://canny.io/images/67f8eac4f16d21ec5274f2f3d321dc83.png)
+
+
+- By clicking on "Trigger Links" you can select from the links available in the dropdown to add in the template.
+
+![image](https://canny.io/images/841ba966e9b59438e748b02ccb912680.png)
+
+
+
+Below mentioned functions are himacaws.aiighted in the next screenshot
+-  Undo
+- Redo
+- Bold
+- Italic
+- Underline
+- Font Type
+![image](https://canny.io/images/d11ad54807873875c1471f92d05d5bed.png)
+
+
+
+Below mentioned functions are himacaws.aiighted in the next screenshot
+- Font Size
+- Paragraph Format
+- Line Height
+- Text Color
+- Background Colour
+- Disc List
+- Decimal List
+- Text Align
+
+![image](https://canny.io/images/6dc029b230c79aad410f31c887837f5e.png)
+
+
+
+
+
+
+On clicking the more options icon (3 dots) you will be able to select from the below mentioned actions
+- Strike
+- Super Script
+- Sub Script
+- Code
+- Code Block
+- Block Quote
+- Format Selected
+- Format all document
+
+![image](https://canny.io/images/83add5e40430e43190f008e6134a2ac3.png)
+
+- When the "Add Link" icon is clicked a new window will open. In this pop up window you can paste the URL or select a trigger link by clicking on the icon in the right. Select the "Action: from Self or New Window and click on Save.
+
+![image](https://canny.io/images/1d38b645bd7edb73f06c449b98515024.png)
+![image](https://canny.io/images/318a1674755401e8aade9c1812ac1acb.png)
+
+
+
+
+
+When the "Image" icon is clicked a new window will open. In this pop up window you can
+- Add URL of your Image
+- Upload the Image by clicking on the "Upload" button
+- Set the Width and Height
+- Enter an Alternative Text
+- Enter a link you want to open when user clicks on the Image
+- Open Link In - This field is only editable if "Image Action Link" is selected. You can select the link should open in same or different window.
+
+![image](https://canny.io/images/16b3219ea64ee811957bbe0eba4a9ea3.png)
+
+
+
+- When the "Source Code" icon is clicked a new window will open. In this pop up window you can see the Source Code for the template and edit the same.
+
+![image](https://canny.io/images/36743d0cd61f74a53af234fe65044efb.png)
+![image](https://canny.io/images/240ceecb715aa47f6b0b3f67916d5f39.png)</description><pubDate>Thu, 18 Jan 2024 13:43:28 GMT</pubDate></item><item><title>IVR Connect Call enhancement</title><description>**About the enhancement**
+Introducing an exciting enhancement that empowers users to effortlessly handpick up to 10 recipients in the Connect Call action within the IVR system. This innovative capability initiates simultaneous calls to all selected users, persisting until one of them answers.
+
+By expanding the outreach to multiple users concurrently, this feature significantly elevates the likelihood of promptly addressing the caller's needs, especially when other recipients are occupied. The result? Amplified lead conversions and an enriched user experience, as missed opportunities dwindle, and connections flourish seamlessly.
+
+![Upload connect call to](https://canny.io/images/5fab93319e1e9c2325f09c16d4de2ebc.png)
+
+**Minor Bug Fix**
+In the IVR Gather Input action, earlier the call used to get disconnected when no input was provided. This has now been fixed</description><pubDate>Thu, 18 Jan 2024 11:55:28 GMT</pubDate></item><item><title>Coupon codes for subscription products are now live</title><description>- Business users will now be able to create coupon codes applicable to one-time as well as recurring products
+- This is available under the Payments menu on the Coupons page. Users can limit the coupons to specific products only, or the cumulative total number of times the coupon code can be redeemed 
+- Users also have the new option to apply the coupon code discount on future payments if it is applicable
+- This means that if the above is checked, the discount will get applied to every subsequent transaction for the recurring product, whereas if it is left unchecked, it will apply only on the first payment while the customer is submitting the order form. 
+- The subsequent charges in case the box is left unchecked will be the complete recurring price of the product
+![image](https://canny.io/images/738e0336690f86d5cf991a162e6b6bb4.png)
+![image](https://canny.io/images/43a170484fbc1e41ba7963d80b015557.png)
+![image](https://canny.io/images/c145885a4918b6aacb9b2260b3cd6d10.png)
+![image](https://canny.io/images/d02aad1083966b79877f45553171d496.png)</description><pubDate>Wed, 17 Jan 2024 18:58:57 GMT</pubDate></item><item><title>Contactless Tasks - Internal Tasks for your Team</title><description>Introducing Standalone Tasks - Create and Assign Tasks to your Team members without the need of a contact.
+
+# What’s New:
+- Create Tasks without the need of a contact from the “Tasks List View”
+- Assign, remove or Reassign the Contact to a task in the “Tasks List View”
+- Filter - Use ” Unassigned” option in the contact filter option to filter tasks without a contact
+
+![Screenshot 2024-01-17 at 10](https://canny.io/images/bb51c0f4f646693170a0c2f188ed75ce.png)
+![Screenshot 2024-01-17 at 10](https://canny.io/images/cce480d1cf8fa9cdabaef289f14f270c.png)</description><pubDate>Wed, 17 Jan 2024 17:38:56 GMT</pubDate></item></channel></rss>
